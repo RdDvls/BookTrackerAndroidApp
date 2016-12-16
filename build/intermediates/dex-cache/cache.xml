@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9ce067709398cb3ddf941e1d179c864fbcf93ddf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5ddd04f19681fa201bda14ddae4e0c7de30a740b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_2fd93dd9f25bdaa34fbae8e93643adb9d4affe33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_7a25b17ba056487235f40b5db4d54ce2cec34f0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_e28dcb9e6129058d502a1a0a37ca516365c8946a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_21419b31052c758fe61f5cffbb816043524571cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_799254a7b2ff93bb078c11c742d8f90a466fb987/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cb966067dac0d587e2df3f009c55ac4e803e9694">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_596f9ead6093014947964050a00c3cc07317afd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_20062cb154d063ad1b6b0985cf23a97288858421/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8be4c452a12ebae9d6e6dbd217946baa6aea37fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_4299026bc836a79610316bfcb4fac74f6588e31f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_6f95a0b56b350adcd34baa31ecd139f195d28757/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a6fee219ac1d64ab038778649daee08e481d0c66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="278369dc1446cbbd8f863df4a5c7e458c9635d8c">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_87453a115417739dc787a890d304297d50ca6641/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_511fac64f7884ced86e7a4d87b5b699e72319588/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_08e4117be1cfdb56b02f49c1b3e72a72697aad28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_df11bae033009209caa1c20d09ee15eaf4ea756c/classes.dex" />
+    </item>
+
+</items>
