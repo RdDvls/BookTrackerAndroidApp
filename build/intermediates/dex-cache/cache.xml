@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="cb966067dac0d587e2df3f009c55ac4e803e9694">
+        sha1="7d07215376d6c2fa22a73aad914a97b3d360ed4b">
         <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_596f9ead6093014947964050a00c3cc07317afd9/classes.dex" />
     </item>
     <item
@@ -124,7 +124,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.2"
-        sha1="278369dc1446cbbd8f863df4a5c7e458c9635d8c">
+        sha1="99af5bb14a7351fabc1cb29efa771abed123d88a">
         <dex dex="/Users/RdDvls/Documents/workbench/Android/BookTracker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_87453a115417739dc787a890d304297d50ca6641/classes.dex" />
     </item>
     <item

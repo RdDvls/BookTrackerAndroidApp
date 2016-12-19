@@ -32,7 +32,6 @@ public class BookItem {
     }
 
     public BookItem(String bookTitle, String bookPossessor) {
-
         this.bookTitle = bookTitle;
         this.bookPossessor = bookPossessor;
     }
